@@ -9,4 +9,4 @@
 * https://labex.io/linuxjourney
 
 
-### plus: Over the wire: https://overthewire.org/wargames/
+### Plus: Over the wire: https://overthewire.org/wargames/
