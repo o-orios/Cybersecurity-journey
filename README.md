@@ -4,7 +4,7 @@
 Este repositorio tiene como fin ser mi libreta de notas, aqui voy a ir añadiendo todo lo que vaya aprendiendo sobre ciberseguridad, programación, herramientas, etc.
 Voy iniciar desde un nivel básico pero no desde cero.
 
-objetivos:
+Objetivos:
 
 * Documentar mi progreso de forma ordenada
 * Que pueda consultarlo como si fuera una guia
@@ -42,7 +42,7 @@ Guia de estudio (tentativa):
 * Cisco Packet Tracer: construir y diagnosticar redes
 * Firewalls: reglas de entrada/salida y troubleshooting
 
-## Programación y herramientas de desarrollo
+## 3. Programación y herramientas de desarrollo
 
 * Python: variables, tipos, condicionales y ciclos
 * Python: funciones, colecciones, módulos y excepciones
@@ -57,7 +57,7 @@ Guia de estudio (tentativa):
 * Fundamentos de JavaScript y seguridad de aplicaciones
 * Fundamentos de C: memoria y sistemas (etapa posterior)
 
-## Fundamentos de ciberseguridad
+## 4. Fundamentos de ciberseguridad
 
 * Confidencialidad, integridad y disponibilidad
 * Autenticación, autorización y MFA
